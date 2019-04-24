@@ -128,35 +128,35 @@ var friends = [
       ]
   },
   {
-    "name":"Elizabeth",
+    "name":"Nikki",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
     "scores":[
-        4,
         3,
-        1,
-        4,
+        3,
         2,
-        1,
         4,
-        5,
+        4,
+        1,
         3,
+        3,
+        2,
         5
       ]
   },
   {
-    "name":"Elizabeth",
+    "name":"Audrey",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
     "scores":[
-        4,
         3,
         1,
-        4,
-        2,
-        1,
-        4,
         5,
-        3,
-        5
+        2,
+        4,
+        1,
+        5,
+        1,
+        2,
+        2
       ]
   },
 ]
